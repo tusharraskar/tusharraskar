@@ -1,4 +1,4 @@
-# Tushar Raskar 👋
+# Tushar Raskar 
 
 Hello, I'm Tushar Raskar, a highly motivated and passionate Data Science enthusiast with strong analytical and problem-solving skills. I am committed to using data to drive business decisions and contribute to data-driven solutions and business growth.
 
